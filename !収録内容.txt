@@ -1,78 +1,73 @@
 
-‚±‚Ì‚½‚Ñ‚Í‚b‚fWu—íŽm‚¨Žd’u‚«I‚Q@’pJ‚ÌŸ¯’°ƒŠƒ“ƒ`v‚ð‚²w“ü‚¢‚½‚¾‚«A½‚É‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B
-‚±‚Ì‚b‚fW‚ÍˆÈ‰º‚Ì‚æ‚¤‚È“à—e‚É‚È‚Á‚Ä‚¨‚è‚Ü‚·B
+ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ñ‚Í‚bï¿½fï¿½Wï¿½uï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½dï¿½uï¿½ï¿½ï¿½Iï¿½Qï¿½@ï¿½pï¿½Jï¿½ÌŸï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½É‚ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
+ï¿½ï¿½ï¿½Ì‚bï¿½fï¿½Wï¿½ÍˆÈ‰ï¿½ï¿½Ì‚æ‚¤ï¿½È“ï¿½ï¿½eï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 
 //////////////////////////////////////////////////
 
-—“¯Žm‚Ì‰ºŽãc@”ü‚µ‚¢Žt ‚ÉŽ¹“i‚Ì‰Š‚ð”R‚â‚µA‚»‚Ìn‚ê‚½“÷‘Ì‚É‚¨Žd’u‚«‚ð‰Á‚¦‚é‚Rl‚Ìˆ¤’íŽq’BB
+ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½ÉŽï¿½ï¿½iï¿½Ì‰ï¿½ï¿½ï¿½Rï¿½â‚µï¿½Aï¿½ï¿½ï¿½Ìnï¿½ê‚½ï¿½ï¿½ï¿½Ì‚É‚ï¿½ï¿½dï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½lï¿½Ìˆï¿½ï¿½ï¿½qï¿½Bï¿½B
 
-•Ú‘Å‚½‚êˆú‚ç‚É‚­‚Ë‚é–L‚©‚ÈƒqƒbƒvI
-ƒAƒiƒ‹‚É‚ß‚èž‚ÞƒnƒCƒq[ƒ‹‚ÌæùI
-Ÿ¯’°Ó‚ß‚É–ã‚¦‹¶‚¤”ü–e‚Ì—íŽmI
+ï¿½Ú‘Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Ë‚ï¿½Lï¿½ï¿½ï¿½Èƒqï¿½bï¿½vï¿½I
+ï¿½Aï¿½iï¿½ï¿½ï¿½É‚ß‚èžï¿½Þƒnï¿½Cï¿½qï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½I
+ï¿½ï¿½ï¿½ï¿½ï¿½Ó‚ß‚É–ã‚¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½eï¿½Ìï¿½ï¿½ï¿½mï¿½I
 
-Žll‚Ì—íŽm‚ªŒJ‚èL‚°‚éA‚¨KÓ‚ß’†S‚ÌƒŒƒY‚r‚l—V‚Ñ‚ð‘èÞ‚Æ‚µ‚½‚¨KƒtƒFƒ`‚È‚b‚fW‚Å‚·B
+ï¿½lï¿½lï¿½Ìï¿½ï¿½ï¿½mï¿½ï¿½ï¿½Jï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Kï¿½Ó‚ß’ï¿½ï¿½Sï¿½Ìƒï¿½ï¿½Yï¿½rï¿½lï¿½Vï¿½Ñ‚ï¿½ï¿½Þ‚Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½tï¿½Fï¿½`ï¿½È‚bï¿½fï¿½Wï¿½Å‚ï¿½ï¿½B
 
 //////////////////////////////////////////////////
 
-‚±‚Ì‚b‚fW‚ÍA‚X‚Q–‡‚ÌJPEG‰æ‘œ‚Å\¬‚³‚ê‚Ä‚¨‚è‚Ü‚·‚Ì‚ÅAJPEG‰æ‘œ‘Î‰ž‚Ì‰æ‘œƒrƒ…[ƒ[‚È‚Ç‚Å‚¨Šy‚µ‚Ý‚­‚¾‚³‚¢B
-‚Ü‚½A‚¨‚Ü‚¯—v‘f‚Æ‚µ‚ÄŠe‰æ‘œ‚²‚Æ‚ÉŠÈ’P‚È•¶Í‚ª•t‚¢‚½hWWWƒuƒ‰ƒEƒU‘Î‰ž‚Ì‚g‚s‚l‚kƒtƒ@ƒCƒ‹h‚ð—pˆÓ‚µ‚Ä‚Ý‚Ü‚µ‚½B
-‚²‚­ŠÈ’P‚È‚à‚Ì‚Å‚·‚ªA‚à‚µ‚æ‚ë‚µ‚¯‚ê‚Î‚²—˜—p‰º‚³‚¢‚Ü‚¹B
-Žg—p•û–@‚ÍAÅ‰‚ÉƒXƒ^[ƒgƒƒjƒ…[‚Å‚ ‚é"00index01"‚Æ‚¢‚¤‚g‚s‚l‚kƒtƒ@ƒCƒ‹‚ðŠJ‚«AŒã‚Íƒƒjƒ…[‚É‰ˆ‚Á‚Ä‚¨Šy‚µ‚Ý‚­‚¾‚³‚¢B
+ï¿½ï¿½ï¿½Ì‚bï¿½fï¿½Wï¿½ÍAï¿½Xï¿½Qï¿½ï¿½ï¿½ï¿½JPEGï¿½æ‘œï¿½Å\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ì‚ÅAJPEGï¿½æ‘œï¿½Î‰ï¿½ï¿½Ì‰æ‘œï¿½rï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½[ï¿½È‚Ç‚Å‚ï¿½ï¿½yï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
+ï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½Ü‚ï¿½ï¿½vï¿½fï¿½Æ‚ï¿½ï¿½ÄŠeï¿½æ‘œï¿½ï¿½ï¿½Æ‚ÉŠÈ’Pï¿½È•ï¿½ï¿½Í‚ï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½hWWWï¿½uï¿½ï¿½ï¿½Eï¿½Uï¿½Î‰ï¿½ï¿½Ì‚gï¿½sï¿½lï¿½kï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½hï¿½ï¿½pï¿½Ó‚ï¿½ï¿½Ä‚Ý‚Ü‚ï¿½ï¿½ï¿½ï¿½B
+ï¿½ï¿½ï¿½ï¿½ï¿½È’Pï¿½È‚ï¿½ï¿½Ì‚Å‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚µï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
+ï¿½gï¿½pï¿½ï¿½ï¿½@ï¿½ÍAï¿½Åï¿½ï¿½ÉƒXï¿½^ï¿½[ï¿½gï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½Å‚ï¿½ï¿½ï¿½"00index01"ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½gï¿½sï¿½lï¿½kï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Aï¿½ï¿½Íƒï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½É‰ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½yï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 
 
 
-›@Žû˜^“à—e
+ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½e
 
-™‰æ‘œƒtƒ@ƒCƒ‹
+ï¿½ï¿½ï¿½æ‘œï¿½tï¿½@ï¿½Cï¿½ï¿½
 
-u—íŽm‚¨Žd’u‚«I‚Q@’pJ‚ÌŸ¯’°ƒŠƒ“ƒ`v‰æ‘œ
-onasnkan01.jpg@`@’†—ª@`@onasnkan92.jpg@Œv92–‡
-
-
-™HTMLƒtƒ@ƒCƒ‹
-
-ƒXƒ^[ƒgƒƒjƒ…[
-00index01.html
-
-€–Ú•Êƒƒjƒ…[
-01seen01.html@`@’†—ª@`@08seen01.html@Œv8ƒtƒ@ƒCƒ‹
-
-‰æ‘œ•Êƒy[ƒW
-xostikn01.html@`@’†—ª@`@xostikn92.html@Œv92ƒtƒ@ƒCƒ‹
-
-ˆÈãA‚X‚QŒÂ‚Ì‚i‚o‚d‚fƒtƒ@ƒCƒ‹‚Æ‚P‚O‚PŒÂ‚Ì‚g‚s‚l‚kƒtƒ@ƒCƒ‹‚Å\¬‚³‚ê‚Ä‚¨‚è‚Ü‚·B
+ï¿½uï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½dï¿½uï¿½ï¿½ï¿½Iï¿½Qï¿½@ï¿½pï¿½Jï¿½ÌŸï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½vï¿½æ‘œ
+onasnkan01.jpgï¿½@ï¿½`ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½`ï¿½@onasnkan92.jpgï¿½@ï¿½v92ï¿½ï¿½
 
 
+ï¿½ï¿½HTMLï¿½tï¿½@ï¿½Cï¿½ï¿½
 
-¦@‚È‚¨AŠe‚g‚s‚l‚kƒtƒ@ƒCƒ‹‚ÌŠÖŒW‚ÍˆÈ‰º‚Ì‚æ‚¤‚È\¬‚É‚È‚Á‚Ä‚¢‚Ü‚·
+ï¿½Xï¿½^ï¿½[ï¿½gï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[
+index.html
 
-00index01.html
+ï¿½ï¿½ï¿½Ú•Êƒï¿½ï¿½jï¿½ï¿½ï¿½[
+01seen01.htmlï¿½@ï¿½`ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½`ï¿½@08seen01.htmlï¿½@ï¿½v8ï¿½tï¿½@ï¿½Cï¿½ï¿½
+
+ï¿½æ‘œï¿½Êƒyï¿½[ï¿½W
+xostikn01.htmlï¿½@ï¿½`ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½`ï¿½@xostikn92.htmlï¿½@ï¿½v92ï¿½tï¿½@ï¿½Cï¿½ï¿½
+
+ï¿½Èï¿½Aï¿½Xï¿½Qï¿½Â‚Ì‚iï¿½oï¿½dï¿½fï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½Æ‚Pï¿½Oï¿½Pï¿½Â‚Ì‚gï¿½sï¿½lï¿½kï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½Å\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
+
+
+
+ï¿½ï¿½ï¿½@ï¿½È‚ï¿½ï¿½Aï¿½eï¿½gï¿½sï¿½lï¿½kï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ÌŠÖŒWï¿½ÍˆÈ‰ï¿½ï¿½Ì‚æ‚¤ï¿½È\ï¿½ï¿½ï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½
+
+index.html
 	01seen01.html
-		xostikn01.html@`@xostikn05.html
+		xostikn01.htmlï¿½@ï¿½`ï¿½@xostikn05.html
 	02seen01.html
-		xostikn06.html@`@xostikn20.html
+		xostikn06.htmlï¿½@ï¿½`ï¿½@xostikn20.html
 	03seen01.html
-		xostikn21.html@`@xostikn33.html
+		xostikn21.htmlï¿½@ï¿½`ï¿½@xostikn33.html
 	04seen01.html
-		xostikn34.html@`@xostikn46.html
+		xostikn34.htmlï¿½@ï¿½`ï¿½@xostikn46.html
 	05seen01.html
-		xostikn47.html@`@xostikn54.html
+		xostikn47.htmlï¿½@ï¿½`ï¿½@xostikn54.html
 	06seen01.html
-		xostikn55.html@`@xostikn67.html
+		xostikn55.htmlï¿½@ï¿½`ï¿½@xostikn67.html
 	07seen01.html
-		xostikn68.html@`@xostikn86.html
+		xostikn68.htmlï¿½@ï¿½`ï¿½@xostikn86.html
 	08seen01.html
-		xostikn87.html@`@xostikn92.html
+		xostikn87.htmlï¿½@ï¿½`ï¿½@xostikn92.html
 
 
 
 
-uƒ{ƒu‚Ú‚Ôƒ‰ƒ“ƒhv‚Å‚ÍˆÈ‰º‚Ì‚æ‚¤‚È‚¨KƒtƒFƒ`‚È‚b‚fƒTƒCƒg‚ðŠJÝ‚µ‚Ä‚¨‚è‚Ü‚·‚Ì‚ÅA‚à‚µ‚æ‚ë‚µ‚¯‚ê‚Î”`‚¢‚Ä‚Ý‚Ä‚â‚Á‚Ä‚­‚¾‚³‚¢B
+ï¿½uï¿½{ï¿½uï¿½Ú‚Ôƒï¿½ï¿½ï¿½ï¿½hï¿½vï¿½Å‚ÍˆÈ‰ï¿½ï¿½Ì‚æ‚¤ï¿½È‚ï¿½ï¿½Kï¿½tï¿½Fï¿½`ï¿½È‚bï¿½fï¿½Tï¿½Cï¿½gï¿½ï¿½ï¿½Jï¿½Ý‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ì‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚µï¿½ï¿½ï¿½ï¿½Î”`ï¿½ï¿½ï¿½Ä‚Ý‚Ä‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 
-u‚¨K‚Ì˜f¯v
+ï¿½uï¿½ï¿½ï¿½Kï¿½Ì˜fï¿½ï¿½ï¿½v
 http://bobsanzzx350.sakura.ne.jp/
-
-
-
-
-
